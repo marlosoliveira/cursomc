@@ -1,4 +1,4 @@
-package br.com.imatech;
+package br.com.imatech.cursomc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
